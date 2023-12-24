@@ -1,0 +1,17 @@
+注意事项
+1.一眼看不懂的字段要写好备注
+2字段命名用驼峰命名
+
+表说明
+combinationSkill                               气海玩法中真气组合后的效果
+cultivationExp                                   用来做修为升级
+item                                                 道具表
+map                                                 地图表
+mapRes                                            地图资源文件，客户端用
+monster                                           怪物表
+npc                                                  npc端
+player                                              玩家信息
+qiHai                                               气海玩法关于显示的配置，客户端用
+skill                                                 技能表
+talentPoint                                      经脉玩法中的穴道信息，天赋点
+talentTree                                       经脉玩法中的经脉信息，天赋树
